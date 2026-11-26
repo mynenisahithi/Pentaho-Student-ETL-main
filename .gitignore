@@ -1,0 +1,8 @@
+# Ignore Pentaho installation
+Pentaho/
+
+# Ignore temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
